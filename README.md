@@ -129,11 +129,11 @@ An end-to-end deep learning pipeline for crop disease detection using transfer l
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agamdeepsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=agamdeepsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agamdeepsingh&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agamdeepsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agamdeepsingh&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamdeepsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
