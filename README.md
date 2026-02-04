@@ -12,7 +12,7 @@
 
 ## 🎓 About Me
 
-I'm a dedicated **Computer Engineering undergraduate** at **Thapar Institute of Engineering and Technology (TIET)**, with strong interests in **AI/ML**, **Deep Learning**, **Computer Vision**, and **Full-Stack Development**.
+I'm a dedicated **Computer Engineering undergraduate** at **Thapar Institute of Engineering and Technology (TIET)**, with strong interests in **AI/ML**, **Deep Learning**, and **Backend Development**.
 
 - 🔬 **Machine Learning Intern** at Annam.ai, IIT Ropar – AI Centre of Excellence
 - 🏆 **Multiple Hackathon Winner** including Zelestra x AWS ML Ascend Challenge 2025, HackSpire'25, and ACM Hacklipse
@@ -79,7 +79,6 @@ An end-to-end deep learning pipeline for crop disease detection using transfer l
 🥇 **Winner** – ACM Hacklipse (Open Innovation)  
 
 ⭐ **Top Performer** – Annam.ai Research Challenge (IIT Ropar)  
-
 
 ## 🛠️ Technical Skills
 
@@ -199,17 +198,11 @@ An end-to-end deep learning pipeline for crop disease detection using transfer l
   </a>
 </p>
 
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Agamdeep555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=Agamdeep555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agamdeep555&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agamdeep555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
