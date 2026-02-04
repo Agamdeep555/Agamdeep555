@@ -1,11 +1,11 @@
-# Hi There! 👋
-# I'm AGAMDEEP SINGH!
-
 <div align="center">
-  
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+👋" alt="Hi There!" />
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+AGAMDEEP+SINGH!" alt="I'm AGAMDEEP SINGH!" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agamdeep-singh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agamdeepsingh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/agamdeepsingh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agamdeepsingh555@gmail.com)
 
 </div>
@@ -165,6 +165,6 @@ I'm always open to:
 
 **"Building the future, one algorithm at a time"** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=aAgamdeep555&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=agamdeepsingh&color=blueviolet&style=for-the-badge)
 
 </div>
