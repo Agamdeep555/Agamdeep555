@@ -165,6 +165,6 @@ I'm always open to:
 
 **"Building the future, one algorithm at a time"** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=agamdeepsingh&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=aAgamdeep555&color=blueviolet&style=for-the-badge)
 
 </div>
