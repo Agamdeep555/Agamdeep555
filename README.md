@@ -17,7 +17,7 @@ I'm a dedicated **Computer Engineering undergraduate** at **Thapar Institute of 
 - 🏆 **Multiple Hackathon Winner** including Zelestra x AWS ML Ascend Challenge 2025, HackSpire'25, and ACM Hacklipse
 - 🤖 Passionate about building intelligent, real-world systems that combine smart algorithms with practical, user-focused applications
 - 🌱 Currently sharpening my skills in **Web-Development** and **Data Structures & Algorithms**
-- 📊 **CGPA**: 8.9/10.0
+- 📊 **CGPA**: 9.0/10.0
 
 ## 💼 Professional Experience
 
@@ -27,6 +27,31 @@ I'm a dedicated **Computer Engineering undergraduate** at **Thapar Institute of 
 - Applied two-phase transfer learning strategy with **EfficientNetV2B3** backbone
 
 ## 🚀 Featured Projects
+
+### 🚗 RideSync
+A full-stack MERN ride-matching platform enabling university students to discover and connect with peers travelling to the same destination, replacing informal WhatsApp coordination with a searchable, filterable system.
+
+🔹 **Tech Stack**: TypeScript, React, Node.js, Express.js, MongoDB, TanStack Query, JWT, Zod, Brevo  
+🔹 **Key Features**:
+- Secure user workflow with JWT-based authentication and email OTP verification
+- Role-based route protection and request matching with accept/reject logic
+- Post-match private messaging and a review system, built with TypeScript across the full stack
+- Deployed on Vercel, Render, and MongoDB Atlas with a fully responsive, dark-mode-enabled UI
+
+🔗 [Code](https://github.com/Agamdeep555/RideSync)
+
+---
+
+### 🦾 Multimodal EEG–EMG–EOG Signal Fusion for 6-DoF Exoskeleton Arm
+An LMDA-Net deep learning framework fusing EEG, EMG, and EOG signals for prosthetic arm control — a capstone project.
+
+🔹 **Tech Stack**: Python, TensorFlow, LMDA-Net, CNN-LSTM, Signal Processing, Weighted Late Fusion  
+🔹 **Key Features**:
+- Weighted late fusion strategy achieving superior accuracy over unimodal systems
+- Preprocessing pipeline with bipolar EOG conversion, segmentation, downsampling, normalization, stratified splitting, and SMOTE balancing
+- Separate LMDA-Net models proposed for Motor Imagery (MI) and Real Movement (RM) to improve classification performance
+
+---
 
 ### 🧠 Quiz O Mania
 An AI-powered quiz generator that creates 10 MCQs per PDF within 5–10 seconds, supporting documents up to 200MB.
@@ -220,10 +245,6 @@ I'm always open to:
 
 <div align="center">
 
-### ⚡ Fun Fact
-*When you're a CS student, "1" + "1" = "11" makes perfect sense! 😄*
-
-**"Building the future, one algorithm at a time"** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Agamdeep555&color=blueviolet&style=for-the-badge)
 
